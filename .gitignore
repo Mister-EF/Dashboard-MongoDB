@@ -1,20 +1,13 @@
-# Environments
 .env
 .venv/
 env/
 venv/
 ENV/
-
-# Python distribution / build
 dist/
 build/
 *.egg-info/
-
-# Operating System files
 .DS_Store
 Thumbs.db
-
-# IDEs and Editors
 .vscode/
 .idea/
 *.swp
