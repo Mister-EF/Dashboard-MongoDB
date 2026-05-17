@@ -1,4 +1,4 @@
-## NoSQL Manager — Content Scaling Dashboard
+# NoSQL Manager — Content Scaling Dashboard
 
 A comprehensive dashboard built with JavaScript, HTML and CSS for the frontend, and MongoDB and Python in the backend to manage non-relational data. Content is fetched dynamically from a MongoDB collection and rendered as interactive cards in real time — no page reloads required.
 
